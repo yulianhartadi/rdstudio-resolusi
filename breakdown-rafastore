@@ -1,0 +1,15 @@
+RAFASTORE with FIREBASE
+
+#1 Membuat user workflow dari rafastore app
+    - Cari inspirasi design
+    - Membuat sketsa layout di XD
+#2 Membuat xml layout dasar dari user interface rafastoreapp
+    - Design dengan MAterial Design Pattern
+    - Referesin dari RDMaterial layout App
+    
+#3 Login dan Register Activity
+    - Membuat splashscreen
+    - Membuat halaman landing option
+    - Membuat halaman login
+    - Membuat halaman register
+    - Membuat halaman back and/or forgot password
